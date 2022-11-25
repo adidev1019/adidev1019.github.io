@@ -2,7 +2,7 @@
 <html>
 <head><title>Msdians</title></head>
 <body bgcolor="green">
-<i><b><center><h1><font color ="red" size="14">MS DHONI(The Legend Of All Time)</font></center></b></i>
+<i><b><center><h1><font color ="red" size="14">MS DHONI (The True Legend)</font></center></b></i>
 <img src="msdcsk.jfif" align="left" height="200" width="250"><img src="aditya.jpg" align="right"><font size="7"><p>MS DHONI <i>Legend of Indian Cricket</i>,best wicketkeeper of the world,best finisher of the world, having more than 100 half-centuries in International Cricket and the main ~The best captain of the World(The Captain Cool),and only captain to win all the three <i>ICC Trophies</i>,and three <i>IPL Titles for Cennai Super Kings.</i> <br>Mahendra Singh Dhoni help.... The Indian Territorial Army conferred the honorary rank of Lieutenant Colonel to Dhoni on <br>1 November 2011. He is the second Indian cricketer after Kapil Dev to receive this honour.It was a happy coincidence for MS Dhoni as he was conferred with the prestigious civilian honour on the seventh anniversary of their famous World Cup triumph.... MS Dhoni received country's third highest civilian award, Padma Bhushan, from President Ram Nath Kovind on 3-April,2018.</p></font>
 <font size="7"><a href="five.html">Life-History&ampSuccess Story Of MS DHONI</a></font><br><br>
 <b><i><font size="8">Some of the Dhoni's Achievements for India</font></i></b>
